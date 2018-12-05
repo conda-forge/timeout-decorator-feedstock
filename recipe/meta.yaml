@@ -1,4 +1,4 @@
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: timeout-decorator
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/t/timeout-decorator/timeout-decorator-{{ version }}.tar.gz
-  sha256: e49d214b17a096ca5162865ccb79f516840e5ba21b394f531f1f1d50e2e293ad
+  sha256: 1a5e276e75c1c5acbf3cdbd9b5e45d77e1f8626f93e39bd5115d68119171d3c6
 
 build:
   number: 0
